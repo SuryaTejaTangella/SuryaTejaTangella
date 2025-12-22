@@ -59,8 +59,8 @@
 
 ## 📊 GitHub Stats
 
-![Surya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Surya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuryaTejaTangella&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaTejaTangella&layout=compact&theme=radical)
 
 ---
 
