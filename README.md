@@ -40,37 +40,45 @@
 ## 🚀 Featured Projects
 
 ### 🎬 CineTrack
-Movie search + rating + watchlist application  
-- API integration with async data handling  
-- Clean component structure & state management  
+
+Movie search + rating + watchlist application
+
+- API integration with async data handling
+- Clean component structure & state management
 
 ---
 
-### 🍽️ Eat-N-Split  
-🔗 https://eat-n-split-xi-three.vercel.app  
-- Bill splitting app with dynamic state updates  
-- Focus on reusable components & state flow  
+### 🍽️ Eat-N-Split
+
+🔗 https://eat-n-split-xi-three.vercel.app
+
+- Bill splitting app with dynamic state updates
+- Focus on reusable components & state flow
 
 ---
 
-### ⚛️ Tabs Component  
-- Built to understand **React internals (re-rendering, diffing, key props)**  
-- Focused on deep conceptual clarity  
+### ⚛️ Tabs Component
+
+- Built to understand **React internals (re-rendering, diffing, key props)**
+- Focused on deep conceptual clarity
 
 ---
 
-### 🎵 Music Player  
-🔗 https://music-player-eight-navy.vercel.app  
-- Interactive UI with animations & custom controls  
-- Strong focus on DOM manipulation & UX  
+### 🎵 Music Player
+
+🔗 https://music-player-eight-navy.vercel.app
+
+- Interactive UI with animations & custom controls
+- Strong focus on DOM manipulation & UX
 
 ---
 
 ### 🧩 Other Projects
-- Tip Calculator (state lifting, reusable components)  
-- Travel List App (CRUD state + UI logic)  
-- Flashcards (conditional rendering)  
-- Date Counter (derived state handling)  
+
+- Tip Calculator (state lifting, reusable components)
+- Travel List App (CRUD state + UI logic)
+- Flashcards (conditional rendering)
+- Date Counter (derived state handling)
 
 ---
 
@@ -91,19 +99,19 @@ Deep Dive               → React internals (Tabs Component)
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuryaTejaTangella&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SuryaTejaTangella&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaTejaTangella&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaTejaTangella&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-- Deep dive into React hooks (`useEffect`, `useContext`, `useReducer`)  
-- Building **dashboard-style applications**  
-- Learning backend with **Spring Boot APIs**  
-- Writing cleaner, scalable frontend architecture  
+- Deep dive into React hooks (`useEffect`, `useContext`, `useReducer`)
+- Building **dashboard-style applications**
+- Learning backend with **Spring Boot APIs**
+- Writing cleaner, scalable frontend architecture
 
 ---
 
