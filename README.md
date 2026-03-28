@@ -1,33 +1,27 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Surya%20Teja%20Tangella&fontSize=42&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20Enthusiast%20%7C%20Full-Stack%20Aspirant&descAlignY=58&descSize=16&descColor=a8b2d8" width="100%"/>
+<!-- Clean SVG header — white name on dark, sharp contrast, no waves -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=160&text=Surya%20Teja%20Tangella&fontColor=ffffff&fontSize=48&fontAlign=50&fontAlignY=45&desc=Frontend%20Developer%20%E2%80%82%7C%E2%80%82React%20%E2%80%82%7C%E2%80%82Java%20%26%20Spring%20Boot%20(learning)&descColor=58a6ff&descSize=15&descAlignY=68" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Building+clean%2C+interactive+UIs+%F0%9F%8E%A8;React+developer+in+the+making+%E2%9A%9B%EF%B8%8F;Former+banker+%E2%86%92+Frontend+developer+%F0%9F%9A%80;Learning+Java+%26+Spring+Boot+%E2%98%95)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryatejatangella/)
-[![Email](https://img.shields.io/badge/Gmail-Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryatejatangella234@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Vercel-Live%20Projects-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/SuryaTejaTangella?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryatejatangella/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryatejatangella234@gmail.com)
+[![Vercel](https://img.shields.io/badge/Live%20Projects-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/SuryaTejaTangella?tab=repositories)
 
 </div>
 
 ---
 
-## 🧭 Who Am I
+## About Me
 
-```
-> Former Assistant Manager @ IDBI Bank
-> Transitioned into tech, driven by curiosity and a love for problem-solving
-> Self-taught frontend developer — building, breaking, and learning every day
-> On a mission to become a full-stack developer (React + Spring Boot)
+```text
+Former Assistant Manager @ IDBI Bank  →  Self-taught Frontend Developer
 ```
 
-I don't just write code — I try to **understand why** it works the way it does.  
-From closures to React Fiber, from state lifting to Spring Boot APIs — I go deep.
+I made a deliberate career switch into tech — and I treat coding the same way I treated banking: with attention to detail and a need to understand the *why* behind every decision.
+
+Right now I'm deep in the React ecosystem, building projects that each target a specific concept — from state lifting to API integration to React internals. Java and Spring Boot are next on the roadmap as I work toward full-stack.
 
 ---
 
@@ -35,22 +29,25 @@ From closures to React Fiber, from state lifting to Spring Boot APIs — I go de
 
 <div align="center">
 
-### Frontend
+**Frontend**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Backend (Learning)
+**Backend — learning**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-### Tools
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
@@ -59,92 +56,103 @@ From closures to React Fiber, from state lifting to Spring Boot APIs — I go de
 
 ## 🚀 Featured Projects
 
-> 11 React projects built in 6 weeks — each one targeting a specific concept.
-
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎬 CineTrack</h3>
-      <p>Movie search, personal rating system & watchlist manager. Integrates external API with clean component architecture.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/API_Integration-FF6B6B?style=flat-square"/>
-        <img src="https://img.shields.io/badge/useEffect-purple?style=flat-square"/>
-      </p>
-      <a href="https://github.com/SuryaTejaTangella/CineTrack">View Repo →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🍽️ Eat-N-Split</h3>
-      <p>Bill-splitting app with friend management. Demonstrates advanced state management and reusable component patterns.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/State_Management-4ECDC4?style=flat-square"/>
-      </p>
-      <a href="https://eat-n-split-xi-three.vercel.app">Live Demo →</a> &nbsp;|&nbsp; <a href="https://github.com/SuryaTejaTangella/Eat-N-Split">Repo →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧮 Tip Calculator</h3>
-      <p>Explores lifting state up and component reusability via the <code>children</code> prop. Clean, minimal UI deployed on Vercel.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Lifted_State-A29BFE?style=flat-square"/>
-        <img src="https://img.shields.io/badge/children_prop-FDCB6E?style=flat-square"/>
-      </p>
-      <a href="https://tip-calculator-zeta-black.vercel.app">Live Demo →</a> &nbsp;|&nbsp; <a href="https://github.com/SuryaTejaTangella/tip-calculator">Repo →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>✈️ Travel List App</h3>
-      <p>Retro-styled packing list manager with sorting, filtering, and persistent list state — built for real usability.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/CRUD_State-FD79A8?style=flat-square"/>
-      </p>
-      <a href="https://travel-list-app-react.vercel.app">Live Demo →</a> &nbsp;|&nbsp; <a href="https://github.com/SuryaTejaTangella/Travel-List-App-React">Repo →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚛️ Tabs Component</h3>
-      <p>Built specifically to understand React internals — re-renders, diffing algorithm, element tree, and the role of <code>key</code> props.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React_Internals-E17055?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Diffing_/_Keys-FDCB6E?style=flat-square"/>
-      </p>
-      <a href="https://github.com/SuryaTejaTangella/TabsComponent">View Repo →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎵 Music Player</h3>
-      <p>Feature-rich vanilla JS player — local file support, custom playlists, genre filter, dark/light theme. No login, no ads.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/DOM_Mastery-00B894?style=flat-square"/>
-      </p>
-      <a href="https://music-player-eight-navy.vercel.app">Live Demo →</a> &nbsp;|&nbsp; <a href="https://github.com/SuryaTejaTangella/music-player">Repo →</a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 CineTrack
+Movie search, rating & watchlist app. Integrates the OMDB API with async state management via `useEffect`.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![API](https://img.shields.io/badge/API_Integration-58a6ff?style=flat-square)
+![useEffect](https://img.shields.io/badge/useEffect-blueviolet?style=flat-square)
+
+[View Repo →](https://github.com/SuryaTejaTangella/CineTrack)
+
+</td>
+<td width="50%" valign="top">
+
+### 🍽️ Eat-N-Split
+Bill-splitting app with friend management. Sibling component communication via lifted state, reusable controlled inputs.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![State](https://img.shields.io/badge/State_Management-4ECDC4?style=flat-square)
+
+[Live →](https://eat-n-split-xi-three.vercel.app) &nbsp;|&nbsp; [Repo →](https://github.com/SuryaTejaTangella/Eat-N-Split)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧮 Tip Calculator
+Demonstrates lifting state up and the `children` prop pattern for reusable components.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Lifted State](https://img.shields.io/badge/Lifted_State-A29BFE?style=flat-square)
+![children](https://img.shields.io/badge/children_prop-FDCB6E?style=flat-square)
+
+[Live →](https://tip-calculator-zeta-black.vercel.app) &nbsp;|&nbsp; [Repo →](https://github.com/SuryaTejaTangella/tip-calculator)
+
+</td>
+<td width="50%" valign="top">
+
+### ✈️ Travel List App
+Retro-styled packing list with add, delete, sort, and filter. Focused on real CRUD state patterns.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![CRUD](https://img.shields.io/badge/CRUD_State-FD79A8?style=flat-square)
+
+[Live →](https://travel-list-app-react.vercel.app) &nbsp;|&nbsp; [Repo →](https://github.com/SuryaTejaTangella/Travel-List-App-React)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚛️ Tabs Component
+Built to understand React internals — re-renders, the diffing algorithm, element tree, and why `key` matters.
+
+![Internals](https://img.shields.io/badge/React_Internals-E17055?style=flat-square)
+![Diffing](https://img.shields.io/badge/Diffing_/_Keys-FDCB6E?style=flat-square)
+
+[Repo →](https://github.com/SuryaTejaTangella/TabsComponent)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎵 Music Player
+Vanilla JS player — local file support, custom playlists, genre filtering, dark/light theme. No login, no ads.
+
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![DOM](https://img.shields.io/badge/DOM_Mastery-00B894?style=flat-square)
+
+[Live →](https://music-player-eight-navy.vercel.app) &nbsp;|&nbsp; [Repo →](https://github.com/SuryaTejaTangella/music-player)
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 📈 React Learning Progression
+## 📈 React Learning Path
 
-> Every repo is a deliberate step — not just code, but concept mastery.
+> 11 projects in 6 weeks. Each one deliberate.
 
 ```
-Feb 2026   React-Learning                  →  JSX, components, props fundamentals
-           React-State-Project             →  useState, event handling basics
+Feb 2026   React-Learning                   JSX, components, props
+           React-State-Project              useState, event handling
 
-Mar 2026   react-state-management-steps    →  Counter logic, controlled components
-           flashcards                      →  Conditional rendering, toggling state
-           date-counter-react              →  Multiple state variables, derived state
-           pizza-menu-app                  →  Props drilling, conditional UI (deployed)
-           Travel-List-App-React           →  CRUD state, list rendering, sort/filter
-           tip-calculator                  →  Lifting state up, children prop
-           Eat-N-Split                     →  Complex state, sibling communication
-           CineTrack                       →  API integration, useEffect, async state
-           TabsComponent                   →  React internals: diffing, keys, re-renders
+Mar 2026   react-state-management-steps     Counter, controlled components
+           flashcards                       Conditional rendering, toggle state
+           date-counter-react               Derived state, multiple state vars
+           pizza-menu-app              ✦    Props drilling, conditional UI
+           Travel-List-App-React       ✦    CRUD state, sort & filter
+           tip-calculator              ✦    Lifting state, children prop
+           Eat-N-Split                 ✦    Sibling state, complex forms
+           CineTrack                   ✦    useEffect, API integration
+           TabsComponent               ✦    React internals, diffing, keys
+                                            ✦ = deployed on Vercel
 ```
 
 ---
@@ -153,32 +161,35 @@ Mar 2026   react-state-management-steps    →  Counter logic, controlled compon
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuryaTejaTangella&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaTejaTangella&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=SuryaTejaTangella&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaTejaTangella&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SuryaTejaTangella&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SuryaTejaTangella&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🎯 Currently Focused On
+## 🎯 What's Next
 
-- [ ] React hooks deep dive — `useEffect`, `useRef`, `useContext`, `useReducer`
-- [ ] Building a full-stack project with React + Spring Boot REST API
-- [ ] Strengthening Java — OOP, Collections, Exception Handling
-- [ ] Deploying a backend project to production
+- [ ] React hooks deep dive — `useRef`, `useContext`, `useReducer`, custom hooks
+- [ ] Full-stack project — React frontend + Spring Boot REST API
+- [ ] Java core — OOP, Collections, Exception Handling
+- [ ] First backend deployment to production
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer&animation=fadeIn" width="100%"/>
+<br/>
 
 *"Learn deeply. Build clean. Improve continuously."*
+
+<br/>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=SuryaTejaTangella.SuryaTejaTangella)
 
 </div>
