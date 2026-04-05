@@ -69,7 +69,7 @@ Movie search + rating + watchlist application with API integration, async data h
 ![API](https://img.shields.io/badge/API_Integration-58a6ff?style=flat-square)
 ![useEffect](https://img.shields.io/badge/useEffect-blueviolet?style=flat-square)
 
-[→ Repo](https://github.com/SuryaTejaTangella/CineTrack)
+[→ Live](https://cine-track-pink.vercel.app/) &nbsp;·&nbsp; [→ Repo](https://github.com/SuryaTejaTangella/CineTrack)
 
 </td>
 <td width="50%" valign="top">
