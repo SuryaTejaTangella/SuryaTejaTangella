@@ -73,7 +73,7 @@ Travel tracking application built with React Router, Context API, useReducer, Cu
 ![useReducer](https://img.shields.io/badge/useReducer-764ABC?style=flat-square)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square)
 
-[→ Live](https://worldwise-one-sigma.vercel.app)  ·  [→ Repo](https://github.com/SuryaTejaTangella/worldwise)
+[→ Live](https://worldwise-delta-one.vercel.app/)  ·  [→ Repo](https://github.com/SuryaTejaTangella/worldwise)
 
 </td>
 
